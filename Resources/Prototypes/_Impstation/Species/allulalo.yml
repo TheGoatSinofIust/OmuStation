@@ -38,6 +38,7 @@
     LHand: MobAllulaloLHand
     LLeg: MobAllulaloLLeg
     RLeg: MobAllulaloRLeg
+    wings: MobHumanoidAnyMarking #Omu - Allul wings moved to wings
     LFoot: MobAllulaloLFoot
     RFoot: MobAllulaloRFoot
     Tail: MobHumanoidAnyMarking
@@ -79,7 +80,13 @@
     Arms:
       points: 1
       required: true
+      #defaultMarkings: [ AllulaloWingsDefault ]
+    #Omu start - moved allu wings to wings
+    Wings:
+      points: 1
+      required: true
       defaultMarkings: [ AllulaloWingsDefault ]
+    #Omu end - moved allu wings to wings
     Legs:
       points: 2
       required: false

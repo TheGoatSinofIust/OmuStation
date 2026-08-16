@@ -98,8 +98,8 @@
 
 - type: marking
   id: AllulaloWingsDefault
-  bodyPart: RArm
-  markingCategory: Arms
+  bodyPart: Wings #Omu- moved allu wings to wings
+  markingCategory: Wings #Omu- moved allu wings to wings
   speciesRestriction: [ Allulalo ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Allulalo/arms.rsi
@@ -109,8 +109,8 @@
 
 - type: marking
   id: AllulaloWingsSplit
-  bodyPart: RArm
-  markingCategory: Arms
+  bodyPart: Wings #Omu- moved allu wings to wings
+  markingCategory: Wings #Omu- moved allu wings to wings
   speciesRestriction: [ Allulalo ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Allulalo/arms.rsi
@@ -120,8 +120,8 @@
 
 - type: marking
   id: AllulaloWingsOwl
-  bodyPart: RArm
-  markingCategory: Arms
+  bodyPart: Wings #Omu- moved allu wings to wings
+  markingCategory: Wings #Omu- moved allu wings to wings
   speciesRestriction: [ Allulalo ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Allulalo/arms.rsi
